@@ -1,2 +1,2 @@
 # software
-Phần mềm cần thiết sau khi càilại windows 
+Phần mềm cần thiết sau khi cài lại windows 
